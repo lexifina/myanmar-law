@@ -1,0 +1,6 @@
+# Section 198
+The effect of laws enacted by different levels of the Hluttaw and the Leading Bodies of the Self-Administered Area is as follows :
+(a) if any provision of the law enacted by the Pyidaungsu Hluttaw, the Region Hluttaw, the State Hluttaw, the Leading Bodies of the Self-Administered Division or the Self-Administered Zone or, any existing law is inconsistent with any provision of the Constitution, the Constitution shall prevail;
+(b) if any provision of the law enacted by the Region Hluttaw or the State Hluttaw is inconsistent with any provision of the law enacted by the Pyidaungsu Hluttaw, the law enacted by the Pyidaungsu Hluttaw shall prevail;
+(c) if any provision of the law enacted by the Leading Body of the Self-Administered Division or the Self-Administered Zone is inconsistent with any provision of the law enacted by the Pyidaungsu Hluttaw, the law enacted by the Pyidaungsu Hluttaw shall prevail;
+(d) if any provision of the law enacted by the Leading Body of the Self-Administered Division or the Self-Administered Zone is inconsistent with any provision of the law enacted by the Region Hluttaw or the State Hluttaw concerned, the law enacted by the Region Hluttaw or the State Hluttaw concerned shall prevail.

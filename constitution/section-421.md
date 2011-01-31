@@ -1,0 +1,4 @@
+# Section 421
+The President :
+(a) shall submit the matter of transferring the sovereign power to the Commander-in-Chief of the Defence Services, after declaring a state of emergency under Sections 417 and 418, to a regular session of the Pyidaungsu Hluttaw if it is in session, or to an emergency session of the Pyidaungsu Hluttaw by summoning it, if it is not in regular session;
+(b) may, if the Commander-in-Chief of the Defence Services submits the extension of the prescribed duration by giving reasons why he has not yet been able to accomplish the duties assigned to him, and after co-ordinating with the National Defence and Security Council, normally permit two extensions of the prescribed duration for a term of six months for each extension. The matter relating to the extension shall be reported to the emergency session of the Pyidaungsu Hluttaw by summoning it.

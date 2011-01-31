@@ -1,0 +1,3 @@
+# Section 65
+The President and the Vice-Presidents shall make an affirmation as follows: "I ........... do solemnly and sincerely promise and declare that I will be loyal to the Republic of the Union of Myanmar and the citizens and hold always in esteem non-disintegration of the Union, non-disintegration of national solidarity and perpetuation of sovereignty.
+I will uphold and abide by the Constitution and its Laws. I will carry out the responsibilities uprightly to the best of my ability and strive for further flourishing the eternal principles of justice, liberty and equality. I will dedicate myself to the service of the Republic of the Union of Myanmar."

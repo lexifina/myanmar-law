@@ -1,0 +1,2 @@
+# Section 426
+The National Defence and Security Council shall, concerning the matter of transferring of sovereign power by the President to the Commander-in-Chief of the Defence Services by declaring a state of emergency under Sections 417 and 418, declare the annulment of the ordinance transferring the sovereign power to him under Section 418 on receiving the report that the Commander-in-Chief of the Defence Services has accomplished the duties assigned to him.

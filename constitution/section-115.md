@@ -1,0 +1,5 @@
+# Section 115
+(a) The Pyithu Hluttaw shall form Bill Committee, Public Accounts Committee, Hluttaw Rights Committee, and Government's Guarantees, Pledges and Undertakings Vetting Committee with the Pyithu Hluttaw representatives.
+(b) When the occasion arises to have studies made and submitted on defence and security matters or Military affairs, the Pyithu Hluttaw shall form the Defence and Security Committee with the Pyithu Hluttaw representatives who are the Defence Services Personnel, for a limited time. The Defence and Security Committee so formed may, if necessary, be included suitable Pyithu Hluttaw representatives who are not the Defence Services Personnel in accord with the volume of work.
+(c) If there arises a need to study and submit other affairs, in addition to legislature, executive, national races affairs, economics, finance, social and foreign affairs, Hluttaw Committees may be formed with the Pyithu Hluttaw representatives for a limited time.
+(d) The Pyithu Hluttaw shall determine the number of members, duties, powers, rights, and terms of Pyithu Hluttaw Committees.

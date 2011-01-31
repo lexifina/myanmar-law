@@ -1,0 +1,4 @@
+# Section 157
+(a) After issuing a rule, regulation or by-law in accord with the law enacted by the Pyidaungsu Hluttaw, the Body concerned shall distribute and submit the said rule, regulation or by-law to its representatives at the nearest regular session of the Amyotha Hluttaw with the permitted arrangement of the Speaker of the Hluttaw.
+(b) If it is found that a rule, regulation or by-law is in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the Amyotha Hluttaw within 90 days from the day that rule, regulation or by-law is submitted and distributed.
+(c) If there is a disagreement between the Amyotha Hluttaw and the Pyithu Hluttaw to annul or amend any rule, regulation or by-law, it shall be submitted to the Pyidaungsu Hluttaw.

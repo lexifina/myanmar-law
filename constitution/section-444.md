@@ -1,0 +1,3 @@
+# Section 444
+(a) The Government that exists on the day this Constitution comes into operation shall continue to discharge the respective duties until the emergence of the new Government formed and assigned duties in accord with this Constitution.
+(b) All courts existing on the day the coming into operation of this Constitution shall continue to exercise their jurisdiction until new courts are constituted by law in accord with this Constitution. All cases, civil, criminal and revenue, pending in the said courts, shall be disposed of in accord with the laws exercised on the day on which the cases came up for trial.

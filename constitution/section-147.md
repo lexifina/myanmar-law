@@ -1,0 +1,5 @@
+# Section 147
+(a) The Amyotha Hluttaw shall form Bill Committee, Public Accounts Committee, Hluttaw Rights Committee, and Government's Guarantees, Pledges and Undertakings Vetting Committee with the Amyotha Hluttaw representatives.
+(b) When the occasion arises to have studies made and submitted on defence and security matters or Military affairs, the Amyotha Hluttaw shall form the Defence and Security Committee with the Amyotha Hluttaw representatives who are the Defence Services personnel, for a limited time. The Defence and Security Committee so formed may, if necessary, be included suitable Amyotha Hluttaw representatives who are not the Defence Services personnel in accord with the volume of work.
+(c) If there arises a need to study and submit on other affairs, in addition to legislature, executive, national races affairs, economics, finance, social and foreign affairs, the Hluttaw Committees may be formed with the Amyotha Hluttaw representatives for a limited time.
+(d) The Amyotha Hluttaw shall determine the number of members, duties, powers, rights, and term of the Amyotha Hluttaw Committees.

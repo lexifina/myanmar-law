@@ -1,0 +1,2 @@
+# Section 206
+The President may establish or sever diplomatic relations with foreign countries with the approval of the Pyidaungsu Hluttaw. However, in situation which requires immediate action, the President may sever diplomatic relations with any foreign country after coordination with the National Defence and Security Council. The President shall submit that action to the Pyidaungsu Hluttaw for its approval.

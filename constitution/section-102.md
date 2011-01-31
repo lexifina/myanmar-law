@@ -1,0 +1,2 @@
+# Section 102
+The Bills, which are to be discussed and resolved exclusively at the Pyidaungsu Hluttaw need to be vetted before being discussed at the Pyidaungsu Hluttaw, those Bills shall be vetted jointly by the Pyithu Hluttaw Bill Committee and the Amyotha Hluttaw Bill Committee, and the findings and remarks of the Joint Committee together with the Bill may be submitted to the Pyidaungsu Hluttaw session in accord with the prescribed procedures.

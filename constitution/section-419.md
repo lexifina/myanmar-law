@@ -1,0 +1,2 @@
+# Section 419
+The Commander-in-Chief of the Defence Services to whom the sovereign power has been transferred shall have the right to exercise the powers of legislature, executive and judiciary. The Commander-in-Chief of the Defence Services may exercise the legislative power either by himself or by a body including him. The executive power and the judicial power may be transferred to and exercised by an appropriate body that has been formed or a suitable person.

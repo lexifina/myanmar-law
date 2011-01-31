@@ -1,0 +1,2 @@
+# Section 215
+The President shall not be answerable to either any Hluttaw or to any Court for the exercise of the powers and functions of his office or for any act done or purported to be done by him in the exercise of these powers and functions in accord with the Constitution or any law. However, the exemption does not deal with the provisions relating to impeachment of the President under the Constitution.

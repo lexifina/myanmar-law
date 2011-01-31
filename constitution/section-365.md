@@ -1,0 +1,2 @@
+# Section 365
+Every citizen shall, in accord with the law, have the right to freely develop literature, culture, arts, customs and traditions they cherish. In the process, they shall avoid any act detrimental to national solidarity. Moreover, any particular action which might adversely affect the interests of one or several other national races shall be taken only after co-ordinating with and obtaining the settlement of those affected.

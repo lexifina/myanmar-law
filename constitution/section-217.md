@@ -1,0 +1,2 @@
+# Section 217
+Subject to the provisions of the Constitution, the executive power of the Union shall be vested in the President. Nothing in this Section shall prevent the Pyidaungsu Hluttaw from conferring functions and powers upon any authoritative body or person, or be deemed to transfer to the President functions and powers vested in any administrative body or person concerned under the existing laws.

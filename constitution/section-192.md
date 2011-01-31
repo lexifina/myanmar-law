@@ -1,0 +1,3 @@
+# Section 192
+(a) Members, who are representatives of the Region or State Hluttaw among members representing any Region or State level organization formed under the Constitution, are entitled to explain, converse, discuss and vote Bills or matters relating to their organizations at the Hluttaw sessions.
+(b) Members, who are not representatives of the Region or State Hluttaw among members representing any Region or State level organization formed under the Constitution, when they are attending Hluttaw session with the permission of the Speaker of the Hluttaw, are entitled to explain, converse and discuss Bills or matters relating to their organizations.

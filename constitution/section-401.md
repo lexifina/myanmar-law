@@ -1,0 +1,4 @@
+# Section 401
+(a) If the Chairman or a member of the Union Election Commission during this term of service wishes to resign on his own accord due to any reason, he may submit his resignation in writing to the President.
+(b) If the seat of the Chairman or the member of the Union Election Commission is vacant due to resignation, termination of duties, death or any other reason, the President may appoint a new Chairman, or a member of the Union Election Commission in accord with the provisions of appointment of a Union Minister prescribed in this Constitution.
+(c) If the Chairman or member of the Union Election Commission is a Civil Services Personnel it shall be deemed that he has been retired from service in accord with the existing service regulations from the day of appointment of the Chairman or member of the Union Election Commission.

@@ -1,0 +1,6 @@
+# Section 161
+The Region or State Hluttaw shall be formed with the following persons :
+(a) representatives of the Region or State Hluttaw, two of each are elected from each township in the Regions or the States;
+(b) representatives of the Region Hluttaw, each is elected from each national race determined by the authorities concerned as having a population which constitutes 0.1 percent and above of the population of the Union, of the remaining national races other than those who have already obtained the respective Region or a Self-Administered Area in that Region;
+(c) representatives of the State Hluttaw, each is elected from each national race determined by the authorities concerned as having a population which constitutes 0.1 percent and above of the population of the Union, of the remaining national races other than those who have already obtained respective State or a Self-Administered Area in that State;
+(d) representatives of the Region or State Hluttaw who are the Defence Services personnel nominated by the Commander-in-Chief of the Defence Services in accord with the law for an equal number of one-third of the total number of Hluttaw representatives elected under Sub-Sections (a) and (b) or (a) and (c).

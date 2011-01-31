@@ -1,0 +1,5 @@
+# Section 134
+(a) If there is a need to arrest a Pyithu Hluttaw representative attending the session or a person attending the Pyithu Hluttaw session with the permission or invitation of the Speaker of the Pyithu Hluttaw, the credible evidence shall be submitted to the Speaker of the Pyithu Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Pyithu Hluttaw.
+(b) If there is a need to arrest a member of a Committee or Commission or the Body of the Pyithu Hluttaw attending session of any Committee or session of Commission or the Body formed by the Pyithu Hluttaw, the credible evidence shall be submitted to the Speaker of the Pyithu Hluttaw through the Head of the Committee or Commission or Body concerned.
+He shall not be arrested without the prior permission of the Speaker of the Pyithu Hluttaw.
+(c) If a Pyithu Hluttaw representative is arrested, the Pyithu Hluttaw or the Pyithu Hluttaw Committee or the Commission or the Body formed by the Pyithu Hluttaw is not in session, the credible evidence in support of such arrest shall as soon as possible be submitted to the Speaker of the Pyithu Hluttaw.

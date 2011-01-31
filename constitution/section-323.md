@@ -1,0 +1,2 @@
+# Section 323
+In hearing a case by a Court, if there arises a dispute whether the provisions contained in any law contradict or conform to the Constitution, and if no resolution has been made by the Constitutional Tribunal of the Union on the said dispute, the said Court shall stay the trial and submit its opinion to the Constitutional Tribunal of the Union in accord with the prescribed procedures and shall obtain a resolution. In respect of the said dispute, the resolution of the Constitutional Tribunal of the Union shall be applied to all cases.

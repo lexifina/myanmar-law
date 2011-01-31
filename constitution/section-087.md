@@ -1,0 +1,2 @@
+# Section 87
+If a representative of the Pyidaungsu Hluttaw is, without permission of the Speaker of the Pyidaungsu Hluttaw, absent from sessions of the Pyidaungsu Hluttaw for a period of at least 15 consecutive days, the Speaker shall inform the Hluttaw concerned to take action against the representative according to the prescribed procedures. In computing the said period of 15 days, no account shall be taken of any period during which the session is adjourned.

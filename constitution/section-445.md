@@ -1,0 +1,2 @@
+# Section 445
+All policy guidelines, laws, rules, regulations, notifications and declarations of the State Law and Order Restoration Council and the State Peace and Development Council or actions, rights and responsibilities of the State Law and Order Restoration Council and the State Peace and Development Council shall devolve on the Republic of the Union of Myanmar. No proceeding shall be instituted against the said Councils or any member thereof or any member of the Government, in respect of any act done in the execution of their respective duties.

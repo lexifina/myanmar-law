@@ -1,0 +1,2 @@
+# Section 148
+If there arises a certain matter to co-ordinate with the Pyithu Hluttaw, the Amyotha Hluttaw may elect and assign its representatives who will serve with the Joint Committee comprising an equal number of representatives from the Amyotha Hluttaw and the Pyithu Hluttaw to form that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.

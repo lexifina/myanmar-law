@@ -1,0 +1,7 @@
+# Section 53
+(a) If there arises a cause to re-delineate the territorial boundary of a Region or a State, the prior consent of the electorate residing within the township concerned shall be obtained.
+(b) In obtaining consent, re-delineation of the territorial boundary shall not be executed at all in the absence of assenting votes of more than half of the total number of the electorate residing within the township concerned.
+(c) If more than half of the total number of eligible voters residing within the township concerned cast assenting vote for re-delineation of the territorial boundary, the consent of the Hluttaw representatives of the Region or State involved in the territorial boundary concerned shall be obtained.
+(d) The President shall re-delineate the territorial boundary of the Region or State concerned with the consent of the Pyidaungsu Hluttaw, after obtaining the assenting votes of three-fourths and above of the total number of representatives from the Region or the State concerned.
+(e) The resolution of the Pyidaungsu Hluttaw shall be obtained if a Region Hluttaw or a State Hluttaw concerned decided against re-delineation of the territorial boundary.
+(f) The President shall, as necessary, re-delineate the territorial boundary of a Region or a State if three-fourths and above of the total number of representatives in the Pyidaungsu Hluttaw assent to the re-delineation of the territorial boundary.

@@ -1,0 +1,2 @@
+# Section 93
+If there is a need to arrest a Pyidaungsu Hluttaw representative attending the Pyidaungsu Hluttaw session or a person attending the Pyidaungsu Hluttaw session with the permission or invitation of the Speaker of the Pyidaungsu Hluttaw, credible evidence shall be submitted to the Speaker of the Pyidaungsu Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Pyidaungsu Hluttaw.

@@ -1,0 +1,4 @@
+# Section 413
+According to Section 412, concerning the declaration of a state of emergency :
+(a) the local administrative bodies and their members and the Civil Services organizations and their members may obtain the assistance of the Defence Services to effectively carry out their duties in accord with the existing laws in order to quickly restore to its original situation in an area where the declaration of a state of emergency has been in operation;
+(b) the President may, if necessary, declare a military administrative order. In the said order, the executive powers and duties and the judicial powers and duties concerning community peace and tranquillity and prevalence of law and order shall be conferred on the Commander-in-Chief of the Defence Services. The Commander-in-Chief of the Defence Services may exercise the said powers and duties himself or empower on any suitable military authority to exercise thereof.

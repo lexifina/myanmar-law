@@ -1,0 +1,3 @@
+# Section 130
+(a) If a Pyithu Hluttaw representative is, without permission of the Pyithu Hluttaw, absent from a Pyithu Hluttaw session for a period of at least 15 consecutive days, the Pyithu Hluttaw may declare his seat vacant. In computing the said period of 15 days, no account shall be taken of any period during which the session is adjourned.
+(b) If the Speaker of the Pyidaungsu Hluttaw informed the Pyithu Hluttaw that a Pyithu Hluttaw representative is absent from a Pyidaungsu Hluttaw session for a period of 15 consecutive days without permission, the Pyithu Hluttaw shall take action against the said representative in accord with the prescribed procedures.

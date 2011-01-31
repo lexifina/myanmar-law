@@ -1,0 +1,2 @@
+# Section 283
+The Head of General Administration Department of the Leading Bodies of the Self-Administered Division or Self-Administered Zone shall serve as the Secretary of the Leading Bodies of the Self-Administered Division or Self-Administered Zone. Moreover, the General Administration Department of the Self-Administered Division or Self-Administered Zone is also the Office of the Leading Bodies of the Self-Administered Division or Self-Administered Zone.

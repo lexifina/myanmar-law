@@ -1,0 +1,2 @@
+# Section 424
+Notwithstanding that the term of the Pyidaungsu Hluttaw has expired, the President and the Vice-Presidents, or the Speaker of the Pyithu Hluttaw and the Speaker of the Amyotha Hluttaw shall remain in their office until the new President and the new Vice-Presidents, or the new Speaker of the Pyithu Hluttaw and the new Speaker of the Amyotha Hluttaw have been elected in accord with the Constitution.

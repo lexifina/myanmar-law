@@ -1,0 +1,4 @@
+# Section 106
+(a) If the President sends the Bill back to the Pyidaungsu Hluttaw together with his comments within the prescribed period, the Pyidaungsu Hluttaw, after discussion of the President's comments, may accept his comment and resolve to amend the Bill or may resolve to approve the Bill as it is without accepting the President's comment.
+(b) When the Bill which is amended in accord with the President's comment or the Bill which is approved as it is without accepting the President's comment is sent back to him by the resolution of the Pyidaungsu Hluttaw, the President shall sign the Bill and promulgate it as law within seven days after receiving the Bill back.
+(c) If the Bill sent back by the Pyidaungsu Hluttaw is not signed by the President within the prescribed period, it shall become law as if he had signed it on the last day of the prescribed period.

@@ -1,0 +1,2 @@
+# Section 423
+The President shall, on receiving the report of the Commander-in-Chief of the Defence Services under Section 422, revoke the temporary suspension of the legislative functions of all Hluttaws and Leading Bodies if the term of the Pyidaungsu Hluttaw has not expired. The New executive and judicial bodies prescribed in the Constitution shall then be formed and assigned duties in accord with the Constitution. Such bodies shall only carry out the duties for the remaining term of the Hluttaw.

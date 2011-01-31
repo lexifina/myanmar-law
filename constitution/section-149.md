@@ -1,0 +1,3 @@
+# Section 149
+When both the Amyotha Hluttaw and the Pyithu Hluttaw have certain matters to study, apart from matters to be performed by the Committees as prescribed in Sub-Sections (a) and (b) of Section 147, the Speakers of these Hluttaws may co-ordinate among themselves and form a Joint Committee comprising an equal number of representatives from the Amyotha Hluttaw and the Pyithu Hluttaw. The Amyotha Hluttaw may elect and assign the Amyotha Hluttaw representatives included in that Committee.
+The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
