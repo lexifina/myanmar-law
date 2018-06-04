@@ -1,0 +1,2 @@
+# Section 205 Compensation for revocation by principal, or renunciation by agent.
+Where there is an express or implied contract that the agency should be continued for any period of time, the principal must make compensation or the agent, or the agent to the principal, as the case may be, for any previous revocation or renunciation of the agency without sufficient cause.

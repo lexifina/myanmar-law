@@ -1,0 +1,2 @@
+# Section 171 General lien of bankers, factors, wharfingers, advocates and policy-brokers.
+Bankers, tactors, wharfingers, advocates of the High Court and policy-brokers may, in the absence of a contract to the contrary, retain, as a security for a general balance of account, any goods bailed to them; but no other persons have a right to retain, as a security for such balance, goods bailed to them, unless there is an express contract to that effect.
