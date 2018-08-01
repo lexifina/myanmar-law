@@ -1,0 +1,2 @@
+# Section 434 Power to require limited company to give security for costs
+Where a limited company is plaintiff or petitioner in any suit or other legal proceeding, the Court may, if it appears that there is reason to believe that the company will be unable to pay the costs of the defendant if successful in his defence, require sufficient security to be given for those costs, and may stay all proceedings until the security is given.

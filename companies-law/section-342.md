@@ -1,0 +1,2 @@
+# Section 342 Order made in any Court to be enforced by other Courts
+Any order made by a Court for or in the course of the winding up of a company shall be enforced in any place in the Union, other than that in which such Court is situate, by the Court that would have had jurisdiction in respect of such company if the registered office of the company had been situate at such other place, and in the same manner in all respects as if such order had been made by the Court that is hereby required to enforce the same.

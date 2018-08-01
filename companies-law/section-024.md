@@ -1,0 +1,2 @@
+# Section 24
+If, where an alteration has been made to the constitution of a company, the company at any time after the date of the alteration issues any copies of the constitution which are not in accordance with the alteration, it shall be liable to a fine of 100,000 kyats for each copy so issued, and every director or other officer of the company who is knowingly and wilfully in default shall be liable to the same penalty.

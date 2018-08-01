@@ -1,0 +1,3 @@
+# Section 211 Obligations of companies where no prospectus is issued
+(a) A company which does not issue a prospectus on or with reference to its formation shall not allot any of its shares or debentures or other securities unless before the first allotment of shares or debentures or other securities there has been filed with the Registrar a statement in lieu of prospectus, signed by every person who is named therein as a director or a proposed director of the company or by his agent authorized in writing, in the form and containing the particulars prescribed by the Union Minister for such purpose.
+(b) This section applies without limitation to any other provision of this Law.

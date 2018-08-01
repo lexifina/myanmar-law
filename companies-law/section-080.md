@@ -1,0 +1,2 @@
+# Section 80 Registration of name of bearer of share-warrant
+Subject to sections 81 and 82, the bearer of a share-warrant shall, subject to the constitution of the company, be entitled, on surrendering it for cancellation, to have their name entered as a member in the register of members; and the company shall be responsible for any loss incurred by any person by reason of the company entering in its register the name of a bearer of a share-warrant in respect of the shares therein specified without the warrant being surrendered and cancelled.

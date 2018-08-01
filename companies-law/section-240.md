@@ -1,0 +1,2 @@
+# Section 240 Registration of appointment of receiver
+If any person obtains an order for the appointment of a receiver of the property of a company, or appoints such a receiver under any powers contained in any instrument, he shall, within 28 days from the date of the order or of the appointment under the powers contained in the instrument, file notice of the fact with the Registrar in the prescribed form, and the Registrar shall enter the fact in the Register of mortgages and charges.

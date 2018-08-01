@@ -1,0 +1,4 @@
+# Section 177 Assignment of office by directors
+If in the case of any company provision is made in the constitution or by any agreement entered into between any person and the company for empowering a director or officer of the company to assign his office as such to another person, any assignment of office made in pursuance of the said provision shall, notwithstanding anything to the contrary contained in the said provision, be of no effect unless and until it is approved by a special resolution of the company:
+Provided that the exercise by a director of a power to appoint an alternate director to act for him during periods of unavailability shall not be deemed to be an assignment of office within the meaning of this section:
+Provided always that any such alternate director shall not exercise any powers as a director if and when the appointor is available.

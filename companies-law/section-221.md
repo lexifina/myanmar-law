@@ -1,0 +1,2 @@
+# Section 221 No restriction on lawful payments
+Nothing in section 220 shall affect the power of any company to pay such brokerage as it has heretofore been lawful for a company to pay, and a vendor to, promoter of, or other person who receives payment in money or shares from a company shall have and shall be deemed always to have had power to apply any part of the money or shares so received in payment of any commission, the payment of which, if made directly by the company, would have been legal under section 220.

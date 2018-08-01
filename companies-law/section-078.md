@@ -1,0 +1,2 @@
+# Section 78 Specific performance of contract to subscribe for debentures
+A contract with a company to take up and pay for any debentures of the company may be enforced by a decree for specific performance.

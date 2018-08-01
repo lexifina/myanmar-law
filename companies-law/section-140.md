@@ -1,0 +1,2 @@
+# Section 140 Other duties continue to apply
+A director is not relieved from any of their duties under this Law (including under Part IV), or their fiduciary duties, in connection with a transaction or matter affecting share capital referred to in this Division merely because the transaction or matter is authorised by a provision of this Division or the constitution or is approved by a resolution of members under a provision of this Division.

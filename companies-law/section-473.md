@@ -1,0 +1,2 @@
+# Section 473 Preservation of accrued rights
+Without limiting any other provisions of this Division, if prior to the commencement of this Law a person had acquired, accrued or incurred a right or liability under a provision of the previous law (other than pursuant to a court order) that substantially corresponds to a provision of this Law, that right or liability is deemed to continue under the substantially corresponding provision of this Law as if that provision applied to the conduct or circumstances that gave rise to the right or liability.

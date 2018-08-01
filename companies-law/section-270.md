@@ -1,0 +1,2 @@
+# Section 270
+If any person refuses or neglects to furnish any such information or explanation as required under section 269, such person shall be liable to a fine of 5,000,000 kyats in respect of each offence, and the Court may on the application of the Registrar and upon notice to the company make an order on the company for production of such documents as may be required by the Registrar for the Registrar's investigation and allow the Registrar inspection thereof on such terms and conditions as it thinks fit.

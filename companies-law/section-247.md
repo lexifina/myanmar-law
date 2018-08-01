@@ -1,0 +1,2 @@
+# Section 247 Company's register of mortgages and charges
+Every company shall keep a register of mortgages and charges and enter therein all mortgages and charges specifically affecting property of the company and all floating charges on the undertaking or on any property of the company, giving in each case a short description of the property mortgaged or charged, the amount of the mortgage or charge and the names of the mortgagees or persons entitled thereto.

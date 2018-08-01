@@ -1,0 +1,2 @@
+# Section 305 Court may grant injunction
+The Court may, at any time after the presentation of the petition for winding up a company under this Law, and before making an order for winding up the company, upon the application of the company or of any creditor or contributory of the company, restrain further proceedings in any suit or proceeding against the company, upon such terms as the Court thinks fit.

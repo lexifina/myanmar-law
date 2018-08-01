@@ -1,0 +1,8 @@
+# Section 357 Final meeting and dissolution
+(a) As soon as the affairs of the company are fully wound up, the liquidator shall make up an account of the winding up, showing how the winding up has been conducted and the property of the company has been disposed of, and thereupon shall call a general meeting of the company for the purpose of laying before it the account and giving any explanation thereof.
+(b) The meeting shall be called by advertisement specifying the time, place and object thereof, and published 28 days at least before the meeting in the manner specified in section 348 for publication of a notice under that section.
+(c) Within 7 days after the meeting, the liquidator shall send to the Registrar a copy of the account, and shall make a return to him of the holding of the meeting and of its date:
+Provided that, if a quorum is not present at the meeting, the liquidator shall, in lieu of the said return, make a return that the meeting was duly summoned and that no quorum was present thereat, and upon such a return being made the provisions of this sub-section as to the making of the return shall be deemed to have been complied with.
+(d) The Registrar on receiving the account and either of the returns mentioned in sub-section
+(c) shall forthwith register them, and on the expiration of three months from the registration of the return the company shall be deemed to be dissolved:
+Provided that the Court may, on the application of the liquidator or of any other person who appears to the Court to be interested, make an order deferring the date at which the dissolution of the company is to take effect for such time as the Court thinks fit.

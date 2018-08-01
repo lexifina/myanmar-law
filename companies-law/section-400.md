@@ -1,0 +1,2 @@
+# Section 400 Penalty for false evidence
+If any person, upon any examination upon oath authorized under this Law, or in any affidavit, deposition or solemn affirmation, in or about the winding up of any company under this Law, or otherwise in or about any matter arising under this Law, intentionally gives false evidence, such person shall be liable to imprisonment for a term which may extend to seven years, and also be liable to fine.

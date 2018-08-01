@@ -1,0 +1,3 @@
+# Section 411 Court or person before whom affidavit may be sworn
+(a) Any affidavit required to be sworn under the provisions or for the purposes of this Part may be sworn in the Union, or elsewhere, before any Court, Judge or person lawfully authorized to take and receive affidavits, or in any place outside the Union before any Consul, Vice-Consul or Ambassador of the Union.
+(b) All Courts, Judges, Justices, Commissioners, and persons acting judicially in the Union shall take judicial notice of the seal or stamp or signature (as the case may be) of any such Court, Judge, person, Consul or Vice-Consul or Ambassador attached, appended or subscribed to any such affidavit or to any other document to be used for the purposes of this Part.

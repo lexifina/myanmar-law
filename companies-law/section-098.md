@@ -1,0 +1,4 @@
+# Section 98 Trusts not to be entered on register
+(a) No notice of any trust, expressed, implied or constructive, shall be entered on the register, or be receivable by the Registrar.
+(b) Notwithstanding sub-section (a), the legal representative of a deceased person who is registered as holding a share or interest in a register of a company is, with the consent of the company, entitled to be registered as the holder of that share or interest as personal representative of the deceased person.
+(c) Notwithstanding sub-section (a), the trustee, executor, administrator or assignee of the property of a bankrupt person who is registered as holding a share or interest in a register of a company is, with the consent of the company, entitled to be registered as the holder of that share or interest as trustee, executor, administrator or assignee of the property of the bankrupt person.

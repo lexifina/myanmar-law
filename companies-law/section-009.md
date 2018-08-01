@@ -1,0 +1,2 @@
+# Section 9 Effect of registration
+From the date of registration mentioned in the certificate of incorporation, the members named in the application shall become members of the company having a separate legal personality and the name contained in the certificate of incorporation. Without limiting section 5 or any other provision of this Law, the company will be capable forthwith of exercising all the functions of an incorporated company, and have perpetual succession.

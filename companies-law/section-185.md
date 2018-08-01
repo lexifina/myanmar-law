@@ -1,0 +1,2 @@
+# Section 185 Provision of benefits on transfer of undertaking or property
+A company must not give an officer or former officer of the company or any related body corporate, or any spouse, relative or associate of the officer or former officer, a benefit in connection with the transfer of the whole or any part of the undertaking or property of the company or any related body corporate unless there is member approval under section 186 for the giving of the benefit.

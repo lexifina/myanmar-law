@@ -1,0 +1,3 @@
+# Section 245 Registration of satisfaction of mortgages and charges
+(a) It shall be the duty of the company to give notice to the Registrar of the payment or satisfaction of any charge or mortgage created by the company and requiring registration under section 229 within 28 days from the date of the payment or satisfaction thereof, together with written notice by the mortgagee or chargee that payment or satisfaction of the charge or mortgage may be recorded.
+(b) Upon receipt of a notice in accordance with sub-section (a), the Registrar shall, if no cause is shown, enter a notice of satisfaction on the Register and shall if required furnish the company with a copy thereof.

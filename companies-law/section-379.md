@@ -1,0 +1,5 @@
+# Section 379 Power to apply to Court to have questions determined or powers exercised
+(a) The liquidator or any contributory or creditor may apply to the Court to determine any question arising in the winding up of a company, or to exercise, as respects the enforcing of calls, staying of proceedings or any other matter, all or any of the powers which the Court might exercise if the company were being wound up by the Court.
+(b) The liquidator or any creditor or contributory may apply for an order setting aside any attachment, distress or execution put into force against the estate or effects of the company after the commencement of the winding up.
+(c) Such application shall be made to the Court having jurisdiction to wind up the company.
+(d) The Court, if satisfied that the determination of the question or the required exercise of power or the order applied for will be just and beneficial, may accede wholly or partially to the application on such terms and conditions as it thinks fit, or may make such other order on the application as it thinks just.

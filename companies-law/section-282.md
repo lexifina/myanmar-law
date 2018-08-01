@@ -1,0 +1,9 @@
+# Section 282 Application to company in which the Government holds shares
+In the case of a company in which the Government holds any share the following provisions shall apply notwithstanding anything contained in sections 260, 279 and 280:
+(a) The auditor of a company in which Government holds any share shall be appointed or re-appointed by the Union Minister on the advice of the Union Auditor-General.
+(b) The Union Auditor-General shall have power:
+(i) to direct the manner in which the company's accounts be audited by the auditor appointed in pursuance of sub-section (a) and to give such auditor instructions in regard to any matter relating to the performance of his functions as such;
+(ii) to conduct a supplementary or test audit of the company's accounts by such person or persons as he may authorise in this behalf; and for the purposes of such audit, to require information or additional information to be furnished to any person or persons so authorised, on such matters, by such person or persons, and in such form, as the Union Auditor-General may, by general or special order, direct; and
+(iii) to require the company to produce before him such records or documents in its possession or under its control for the purposes of audit or supplementary or test audit of the company's account and at such time as may be specified by him.
+(c) Any order requiring any information, records or documents to be furnished or produced by a company may also be addressed to any person who is, or has at any time been, an officer or employee of the company, and all the provisions of this section, so far as may be, shall apply in relation to such person as they apply in relation to the company.
+(d) The auditor aforesaid shall submit a copy of his audit report to the Union Auditor-General who shall have the right to comment upon, or supplement, the audit report in such manner as he may think fit.

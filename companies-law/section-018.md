@@ -1,0 +1,3 @@
+# Section 18 Procedure on approval of the alteration
+(a) Notice in the prescribed form together with a copy of the constitution as altered, shall, within 28 days from the date of the passing of the special resolution to amend it, be filed by the company with the Registrar, and he shall register the same and the certificate shall be conclusive evidence that all the requirements of this Law with respect to the alteration have been complied with, and thenceforth the constitution so altered shall be the constitution of the company.
+(b) The Court may by order at any time extend the time for the filing of documents with the Registrar under this section for such period as the Court thinks proper.

@@ -1,0 +1,2 @@
+# Section 300 Winding up maybe referred to Lower Courts
+Where a Court makes an order for winding up a company under this Law, it may, if it thinks fit, direct all subsequent proceedings to be had in a lower Court; and thereupon such Court shall, for the purpose of winding up the company, be deemed to be "the Court" within the meaning of this Law, and shall have, for the purposes of such winding up, all the jurisdiction and powers of the fore mentioned Court.

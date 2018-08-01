@@ -1,0 +1,2 @@
+# Section 254 Registration of charges by overseas corporations
+The provisions of sections 228 to 239 (inclusive), and 244 to 252 (inclusive), shall extend to charges on properties in the Union which are created and to charges on property in the Union, by a corporation incorporated outside the Union which has an established place of business in the Union and which is registered as an overseas corporation under this Law.

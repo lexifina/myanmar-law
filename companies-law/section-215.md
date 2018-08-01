@@ -1,0 +1,14 @@
+# Section 215 Restriction as to allotment
+(a) No allotment shall be made of any share capital of a company offered to the public for subscription unless the amount stated in the prospectus as the minimum amount which in the opinion of the directors must be raised by the issue of share capital in order to provide the sums required to be provided in respect of the matters specified in sub-section (b), or such other amount prescribed by the Union Minister, has been subscribed, and the sum of at least five per cent or such other percentage prescribed by the Union Minister, thereof has been paid to or received in cash by the company.
+(b) The matters for which provision for the raising of a minimum amount of share capital must be made by the directors are the following, namely:
+(i) the purchase price of any property purchased or to be purchased which is to be defrayed in whole or in part out of the proceeds of the issue;
+(ii) any preliminary expenses payable by the company and any commission so payable to any person in consideration of his agreeing to subscribe for or of his procuring or agreeing to procure subscriptions for any shares in the company;
+(iii) the repayment of any moneys borrowed by the company in respect of any of the foregoing matters; and
+(iv) working capital.
+(c) The amount referred to in sub-section (a) as the amount stated in the prospectus shall be reckoned exclusively of any amount payable otherwise than in cash and is in this Law referred to as the minimum subscription.
+(d) All moneys received from applicants for shares shall be deposited and kept in a scheduled bank until returned in accordance with the provisions of sub-section (f) or until the certificate to commence business is obtained under section 218.
+(e) The amount payable on application on each share shall not be less than five per cent of the amount of the share.
+(f) If the conditions aforesaid have not been complied with on the expiration of 180 days after the first issue of the prospectus, all money received from applicants for shares shall be forthwith repaid to them without interest, and, if any such money is not so repaid within 190 days after the issue of the prospectus, the directors of the company shall be jointly and severally liable to repay that money with interest at the prescribed rate from the expiration of the 190th day:
+Provided that a director shall not be liable if he proves that the loss of the money was not due to any misconduct or negligence on his part.
+(g) Any condition requiring or binding any applicant for shares to waive compliance with any requirement of this section shall be void.
+(h) This section, except sub-section (e) thereof, shall not apply to any allotment of shares subsequent to the first allotment of shares offered to the public for subscription.

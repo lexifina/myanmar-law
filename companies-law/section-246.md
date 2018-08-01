@@ -1,0 +1,7 @@
+# Section 246 Penalties
+(a) If any company defaults in filing with the Registrar for registration the following particulars, then, unless the registration has been effected on the application of some other person, the company, and every director and other officer of the company or other person who is knowingly a party to the default, shall be liable to a fine of 250,000 kyats:
+(i) of any mortgage or charge created by the company; or
+(ii) of the payment or satisfaction of a debt in respect of which a mortgage or charge has been registered under section 229 or section 230; or
+(iii) of the issues of debentures of a series, requiring registration with the Registrar under the foregoing provisions of this Law.
+(b) Subject as aforesaid, if any company makes default in complying with any of the requirements of this Law as to the registration with the Registrar of any mortgage or charge created by the company, the company, and every director and other officer of the company who knowingly and wilfully authorizes or permits the default, shall, without prejudice to any other liability, be liable to a fine of 250,000 kyats.
+(c) If any person knowingly and wilfully authorizes or permits the delivery of any debenture or certificate of debenture stock requiring registration with the Registrar under the foregoing provisions of this Law without a copy of the certificate of registration being endorsed upon it, he shall, without prejudice to any other liability, be liable to a fine of 250,000 kyats.

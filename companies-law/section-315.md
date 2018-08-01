@@ -1,0 +1,14 @@
+# Section 315 Statement of affairs to be made to the liquidator
+(a) Where the Court has made a winding up order or appointed an official liquidator provisionally, there shall, unless the Court thinks fit to order otherwise and so orders, be made out and submitted to the official liquidator a statement as to the affairs of the company verified by an affidavit and containing the following particulars, namely:
+(i) the assets of the company, stating separately the cash balance in hand and at the bank, if any;
+(ii) the debts and liabilities;
+(iii) the names, residences and occupations of the creditors, stating separately the amount of secured debts and unsecured debts, and in the case of secured debts particulars of the securities, their value and the dates when they were given; and
+(iv) the debts due to the company and the names, residences and occupations of the persons from whom they are due and the amount likely to be realised therefrom.
+(b) The statement shall be submitted and verified by one or more of the persons who are at the relevant date the directors and by any person who is at that date the secretary of the company, or by such of the persons hereinafter in this sub-section mentioned as the official liquidator, subject to the direction of the Court, may require to submit and verify the statement, that is to say, persons:
+(i) who are or have been directors or officers of the company;
+(ii) who have taken part in the formation of the company at any time within one year before the relevant date; or
+(iii) who are in the employment of the company or have been in the employment of the company within the said year, and are in the opinion of the official liquidator capable of giving the information required.
+(c) The statement shall be submitted within 21 days from the relevant date, or within such extended time as the official liquidator or the Court may for special reasons appoint.
+(d) Any person making or concurring in making the statement and affidavit required by this section shall be allowed, and shall be paid by the official liquidator or provisional liquidator, as the case may be, out of the assets of the company, such costs and expenses incurred in and about the preparation and making of the statement and affidavit as the official liquidator may consider reasonable, subject to an appeal to the Court.
+(e) Any person stating himself in writing to be a creditor or contributory of the company shall be entitled by himself or by his agent at all reasonable times, on payment of the prescribed fee, to inspect the statement submitted in pursuance of this section, and to a copy thereof or extract therefrom.
+(f) For the purposes of this section, "relevant date" means, in a case where a provisional liquidator is appointed, the date of his appointment, and, in a case where no such appointment is made, the date of the winding up order.

@@ -1,0 +1,3 @@
+# Section 296 Contributories in case of death of member
+(a) If a contributory dies either before or after he has been placed on the list of contributories, his legal representatives and his heirs shall be liable in a due course of administration to contribute to the assets of the company in discharge of his liability and shall be contributories accordingly.
+(b) If the legal representatives or heirs make default in paying any money ordered to be paid by them, proceedings may be taken for administering the property of the deceased contributory, whether moveable or immoveable, or both and of compelling payment thereout of the money due.

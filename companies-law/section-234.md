@@ -1,0 +1,4 @@
+# Section 234 Register of mortgages and charges
+(a) The Registrar shall keep, with respect to each company, a register of all mortgages and charges created by the company after the commencement of this Law and requiring registration under section 229, and shall, on payment of the prescribed fee, enter in the Register, with respect to every such mortgage or charge, the date of creation, the amount secured by it, short particulars of the property mortgaged or charged, and the names of the mortgagees or persons entitled to the charge.
+(b) After making the entry required by sub-section (a), the Registrar shall return the instrument (if any) or the verified copy thereof, as the case may be, filed in accordance with the provisions of section 229 or section 232, to the person filing the same.
+(c) The Register kept in pursuance of this section shall be open to inspection by any person on payment of the prescribed fee.

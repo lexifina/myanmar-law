@@ -1,0 +1,4 @@
+# Section 82 Deemed phasing out of share warrants
+(a) All outstanding share warrants issued prior to the commencement of this Law will, if not previously surrendered, continue to be valid, in accordance with their terms, until the end of the transition period or such other period as determined under sub-section (c), following which they will be deemed to have been surrendered and cancelled.
+(b) The company shall not be responsible for any loss incurred by any person by reason of such cancellation of share warrants pursuant to sub-section (a).
+(c) On the written application of the relevant company the Registrar may extend the period referred to in sub-section (a) and make incidental arrangements for the phasing out of the relevant warrants if satisfied on reasonable grounds that the deemed cancellation and surrender of the warrants at the end of the transition period would not be in the best interests of the company.

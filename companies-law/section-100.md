@@ -1,0 +1,2 @@
+# Section 100
+If any inspection required under sub-section 99(a) is refused, or if any copy required under sub-section 99(b) is not sent within the proper period, the company and every director and other officer of the company who is in default shall be liable in respect of each offence to a fine of 250,000 kyats and the Registrar may by an order compel an immediate inspection of the register and index or direct that copies required must be sent to the persons requiring them.

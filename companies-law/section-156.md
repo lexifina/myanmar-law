@@ -1,0 +1,9 @@
+# Section 156 Written resolutions in lieu of meetings
+(a) A company with only one director need not have directors' meetings and may instead pass any necessary resolutions by recording them in writing and signing them.
+(b) A company with only one member need not have members' meetings and may instead pass any necessary resolutions by recording them in writing and signing them.
+(c) Any company may pass a directors resolution without a directors' meeting being held if all the directors' entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document. Separate copies of the document in the same form may be signed and the resolution is passed when the last director signs.
+(d) Any private company may pass a members' resolution without a general meeting being held if all the members entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document. Separate copies of the document in the same form may be signed and the resolution is passed when the last member signs.
+(e) A company that passes a resolution under sub-section (d) is taken to satisfy any requirement of its constitution or this Law that a resolution be passed at a general meeting and further satisfies any requirement under this Law:
+(i) to give members information or a document relating to the resolution-by giving members that information or document with the document to be signed;
+(ii) to lodge with the Registrar a copy of a notice of meeting to consider the resolution-by lodging a copy of the document to be signed by members; and
+(iii) to lodge a copy of a document that accompanies a notice of meeting to consider the resolution-by lodging a copy of the information or documents referred to in sub-section(e)(i).

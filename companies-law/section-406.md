@@ -1,0 +1,2 @@
+# Section 406 Power of Court to declare dissolution of company void
+Where a company has been dissolved, the Court may at any time within two years of the date of the dissolution, on an application being made for the purpose by the liquidator of the company or by any other person who appears to the Court to be interested, make an order, upon such terms as the Court thinks fit, declaring the dissolution to have been void, and thereupon such proceedings may be taken as might have been taken if the company had not been dissolved.

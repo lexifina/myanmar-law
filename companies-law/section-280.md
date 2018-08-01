@@ -1,0 +1,11 @@
+# Section 280 Powers and duties of auditors
+(a) Every auditor of a company shall have a right of access at all times to the financial records, books and accounts and vouchers of the company, and shall be entitled to require from the directors and officers of the company such information and explanation as may be necessary for the performance of the duties of the auditors.
+(b) The auditors shall make a report to the members of the company on the accounts examined by them, and on every financial statement laid before the company in general meeting during their tenure of office, and the report shall state:
+(i) whether or not they have obtained all the information and explanations they have required;
+(ii) whether or not in their opinion the financial statements referred to in the report are drawn up in conformity with applicable law;
+(iii) whether or not the financial statements exhibit a true and fair view of the state of the company's affairs according to the best of their information and the explanations given to them, and as shown by the books of the company; and
+(iv) whether in their opinion financial records have been kept by the company as required by this Division.
+(c) Where any of the matters referred to in sub-section (b) is answered in the negative or with a qualification, the report shall state the reason for such answer.
+(d) The auditors of a company shall be entitled to receive notice of and to attend any general meeting of the company at which any accounts which have been examined or reported on by them are to be laid before the company and may make any statement or explanation they desire with respect to the accounts.
+(e) Where an auditor resigns or is replaced in accordance with this Division, the auditor who has resigned or been replaced may make such statement or report to the company concerning the financial affairs of the company as the auditor, acting reasonably, in good faith and consistent with the auditor's duties and professional obligations, considers necessary. The directors shall ensure that the report is provided to members and submitted to the Registrar within 28 days of receipt. The directors may include any commentary on the report provided by the auditor that they consider necessary.
+(f) This section applies without limitation to any other provision of this Law or any other applicable law.

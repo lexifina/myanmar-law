@@ -1,0 +1,9 @@
+# Section 218 Restrictions on commencement of business
+(a) A company to which this Division applies shall not commence any business or exercise any borrowing powers unless:
+(i) shares held subject to the payment of the whole amount thereof in cash have been allotted to an amount not less in the whole than the minimum subscription;
+(ii) every director of the company has paid to the company on each of the shares taken or contracted to be taken by them, and for which the director is liable to pay in cash, a proportion equal to the proportion payable on application and allotment on the shares offered for public subscription or, in the case of a company which does not issue a prospectus inviting the public to subscribe for its shares, on the shares payable in cash;
+(iii) there has been filed with the Registrar a duly verified declaration by the secretary or one of the directors in the prescribed form that the aforesaid conditions have been complied with; and
+(iv) in the case of a company which does not issue a prospectus inviting the public to subscribe for its shares, there has been filed with the Registrar a statement in lieu of prospectus.
+(b) The Registrar shall, on the filing of a duly verified declaration in accordance with the provisions of this section, certify that the company is entitled to commence business, and that certificate shall be conclusive evidence that the company is so entitled:
+Provided that, in the case of a company which does not issue a prospectus inviting the public to subscribe for its shares, the Registrar shall not give such a certificate unless a statement in lieu of prospectus has been filed with him.
+(c) Nothing in this section shall prevent the simultaneous offer for subscription or allotment of any shares and debentures or other securities or the receipt of any money payable on application for debentures or other securities.

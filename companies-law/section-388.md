@@ -1,0 +1,2 @@
+# Section 388 Appointment in certain cases of voluntary liquidators to office of official liquidator
+Where an order has been made for the winding up of a company subject to supervision, and an order is afterwards made for winding up by the Court, the Court may, by the last-mentioned order or by any subsequent order, appoint the voluntary liquidators or any of them, either provisionally or permanently, and either with or without the addition of any other person, to be official liquidator in the winding up by the Court.

@@ -1,0 +1,2 @@
+# Section 415 Power to stay or restrain proceedings
+The provisions of this Law with respect to staying and restraining suits and legal proceedings against a company at any time after the presentation of a petition for winding up and before the making of a winding up order shall, in the case of an unregistered company, where the application to stay or restrain is by a creditor, extend to suits and legal proceedings against any contributory of the unregistered company.

@@ -1,0 +1,2 @@
+# Section 452 Penalty for false statement
+Whoever in any return, report, certificate, financial statement or other document, required by or for the purposes of any of the provisions of this Law, wilfully makes, or authorizes the making of, a statement false or misleading in any material particular, knowing it to be false, or who omits, or authorizes the omission, from such document any matter knowing that the omission makes the document false or misleading, shall be liable to a penalty to be determined under existing law.

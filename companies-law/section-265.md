@@ -1,0 +1,2 @@
+# Section 265
+If any default is made in laying before the company or in issuing a financial statement required by this Division, or if any balance-sheet and profit and loss account, or income and expenditure account or other financial statement, is issued, circulated or published which does not comply with the requirements laid down by and under section 260, section 262, section 263 and section 264, the company and every director and other officer of the company who is knowingly and wilfully a party to the default shall be punishable with fine of 5,000,000 kyats.

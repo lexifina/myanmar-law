@@ -1,0 +1,2 @@
+# Section 326 Power to require delivery of property
+The Court may, at any time after making a winding up order, require any contributory for the time being settled on the list of contributories and any trustee, receiver, banker, agent, or officer of the company to pay, deliver, surrender or transfer forthwith, or within such time as the Court directs, to the official liquidator any money, property or documents in his hands to which the company is prima facie entitled.

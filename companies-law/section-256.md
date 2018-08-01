@@ -1,0 +1,2 @@
+# Section 256 Keeping of books and records
+The provisions of section 258 shall mutatis mutandis apply to the case of all corporations incorporated outside the Union but having an established place of business in the Union and which is registered as an overseas corporation under this Law to the extent of requiring them to keep at their principal place of business in the Union the financial records required by that section with respect to money received and expended, sales and purchases made, and assets and liabilities in relation to its business in the Union.

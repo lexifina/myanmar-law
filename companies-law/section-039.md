@@ -1,0 +1,2 @@
+# Section 39 Certificate of registration of existing corporations
+On compliance with the requirements of this Division and the applicable requirements of this Law with respect to registration, and on payment of the prescribed application fee, the Registrar shall register the corporation under this Law and, thereupon the corporation shall be taken to be registered and incorporated under this Law, and shall have perpetual succession and, if it elects, a common seal.

@@ -1,0 +1,2 @@
+# Section 125
+In addition to section 124, if the company becomes insolvent following and in connection with such buy-back, every director of the company who knowingly and wilfully permitted the buy-back in default of sub-section 123(a) shall also be liable to the creditors of the company to the extent of the consideration paid for the buy-back where the debts due by the company to the respective creditors exceeded the recoverable assets of the company and such amount may be recovered from them by the creditors or the liquidator suing on behalf of the creditors.

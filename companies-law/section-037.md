@@ -1,0 +1,4 @@
+# Section 37 Corporations capable of being registered
+(a) With the exceptions and subject to the provisions contained in this Division, any corporation formed under any other applicable law in force at any time in the Union may register under this Law as an unlimited company, or as a company limited by shares, or as a company limited by guarantee; and the registration shall not be invalid by reason that it has taken place with a view to the company being wound up.
+(b) All corporations formed under the Special Company Act 1950 or any Companies Acts in force prior to the previous law which are in existence upon the commencement of this Law shall be registered under this Law as companies limited by shares, pursuant to this Law and subject to any requirements as may be prescribed.
+(c) Sections 37(a), 37(b), 38 and 39 do not apply to overseas corporations.

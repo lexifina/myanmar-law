@@ -1,0 +1,4 @@
+# Section 297 Contributories in case of insolvency of member
+If a contributory is adjudged insolvent either before or after he has been placed on the list of contributories, then:
+(a) his assignees shall represent him for all the purposes of the winding up, and shall be contributories accordingly, and may be called on to admit to proof against the estate of the insolvent, or otherwise to allow to be paid out of his assets in due course of law, any money due from the insolvent in respect of his liability to contribute to the assets of the company; and
+(b) there may be proved against the estate of the insolvent the estimated value of his liability to future calls as well as calls already made.

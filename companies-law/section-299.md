@@ -1,0 +1,6 @@
+# Section 299 Company when deemed unable to pay its debts
+(a) For the purpose of this Division, a company shall be deemed to be unable to pay its debts:
+(i) if a creditor, by assignment or otherwise, to whom the company is indebted in a sum exceeding 250,000 kyats, has served on the company, by causing the same to be delivered by registered post or otherwise at its registered office, a demand under his hand requiring the company to pay the sum so due and the company has for three weeks thereafter neglected to pay the sum, or to secure or compound for it to the reasonable satisfaction of the creditor;
+(ii) if execution or other process issued on a decree or order of any Court in favour of a creditor of the company is returned unsatisfied in whole or in part; or
+(iii) if it is proved to the satisfaction of the Court that the company is unable to pay its debts and, in determining whether a company is unable to pay its debts, the Court shall take into account the contingent and prospective liabilities of the company.
+(b) The demand referred to in clause (i) of sub-section (a) shall be deemed to have been duly given under the hand of the creditor if it is signed by an agent or legal adviser duly authorized on his behalf, or in the case of a firm if it is signed by such agent or by a legal adviser or any one member of the firm on behalf of the firm.

@@ -1,0 +1,8 @@
+# Section 440 Certain persons to assist in prosecutions
+(a) Where a prosecution in respect of an offence against this Law has been instituted, or the Registrar is of the opinion that a prosecution in respect of an offence against this Law ought to be instituted, against a person (in this section referred to as the defendant), the Registrar may:
+(i) if the defendant is a natural person-require any person who is or was a partner, employee or agent of the defendant; or
+(ii) if the defendant is a body corporate-require any person who is or was an officer, employee or agent of the defendant;
+to assist in the prosecution, and the person who is so required must give all assistance in connection with the prosecution that that person is reasonably able to give.
+(b) The Registrar must not make such a requirement as is mentioned in sub-section (a) of a person who, in the opinion of the Registrar, is or is likely to be a defendant in the proceedings or is or has been such a person's lawyer.
+(c) If a person to whom sub-section (a)(i) or (ii) relates fails to give assistance as required by sub-section (a), the person contravenes this section and, without affecting any penalty to which the person may be liable for the contravention, the Court may, on the application of the Registrar, order the person to comply with the requirement within such time, and in such manner, as the Court orders.
+(d) In this section, agent, in relation to the defendant, includes a banker of the defendant and a person engaged as an auditor by the defendant, whether that person is an employee or an officer of the defendant or not.

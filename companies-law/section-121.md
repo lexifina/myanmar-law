@@ -1,0 +1,17 @@
+# Section 121 Shareholder approval
+(a) An agreement for an equal buy-back must be approved by an ordinary resolution passed at a general meeting of the company or must be made conditional to such approval.
+(b) An agreement for a selective buy-back must be approved, or be made subject to approval, by either:
+(i) a special resolution passed at a general meeting of the company, with no votes being cast in favour of the resolution by any person who is to receive consideration as part of the buy-back, or by their associates; or
+(ii) a resolution agreed to, at a general meeting, by all ordinary shareholders.
+(c) The company must include with the notice of the meeting a statement setting out all information known to the company that is material to the decision on how to vote on the resolution, including confirmation that the requirements of sub-sections 120(a)(i) to (iii) will be met.
+(d) Before the notice of the meeting is sent to shareholders and before any buy-back offer is executed, the company must lodge with the Registrar a copy of:
+(i) the notice of the meeting;
+(ii) a document setting out the terms of the buy-back offer; and
+(iii) any document relating to the buy-back that will accompany the offer or the notice of the meeting sent to shareholders.
+The company must also publish in a daily newspaper circulating generally in the Union a notice of its intention to call a meeting to approve a buy-back offer and advising that the notice of meeting and associated documents have been filed with the Registrar.
+(e) The Registrar will have 28 days following receipt of the documents referred to in sub-section (d) to determine if the company may release the notice of meeting to shareholders. If the Registrar determines that the notice may be sent, or a determination is not issued within this period, then the company may send the notice of meeting and, if desired, and subject to shareholder approval, execute the buy-back offer.
+(f) In making a determination under sub-section (e) the Registrar may direct the company to clarify or vary any document submitted under sub-section (d) where this is considered reasonably necessary for the protection of shareholders or creditors.
+(g) The Registrar may determine that the company must not enter into the buy-back offer and release the notice of meeting within the time provided by sub-section (e) if satisfied on reasonable grounds that the requirements of sub-section (c) of this section have not been met or for similarly significant cause.
+(h) The company must lodge with the Registrar a copy of any resolution under sub-section (b) within 21 days after it is passed and publish a notice of the passing of such resolution and the summary details of the buy-back in a daily newspaper circulating generally in the Union. The company must not complete the buy-back until 28 days after publication of such notice in the newspaper.
+(i) The Registrar does not assume and shall not owe any obligations to a company, a company's members or to any other person in connection with the performance of its functions under sub-sections (e) to (g) of this section, notwithstanding that the company becomes insolvent or suffers any loss. .
+(j) Notwithstanding that the Registrar does not assume any liability under sub-section (i), that sub-section does not limit the right which a company may have under section 428 to appeal a relevant decision of the Registrar under this section.

@@ -1,0 +1,2 @@
+# Section 176 Validity of acts of directors
+The acts of a director shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or their failure to meet any applicable qualification for appointment whether under this Law or the company's constitution, provided that nothing in this section shall be deemed to validate any acts which would have been invalid even if the person's appointment as a director had been effective.

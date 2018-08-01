@@ -1,0 +1,15 @@
+# Section 229 Certain mortgages and charges to be void if not registered
+(a) Every mortgage or charge created after the commencement of this Law by a company and being either:
+(i) a mortgage or charge for the purpose of securing any issue of debentures;
+(ii) a mortgage or charge on uncalled share capital of the company;
+(iii) a mortgage or charge on any immoveable property wherever situate, or any interest therein;
+(iv) a mortgage or charge on any book debts of the company;
+(v) a mortgage or a charge, not being a pledge on any moveable property of the company except stock-in-trade; or
+(vi) a floating charge on the undertaking or property of the company;
+shall, subject to sub-section (b), so far as any security on the company's property or undertaking is thereby conferred, be void against the liquidator and any creditor of the company unless the particulars of the mortgage or charge in the prescribed form, together with a copy of the instrument by which the mortgage or charge is created or evidenced, are filed with the Registrar within 28 days after the date of its creation, but without prejudice to any contract or obligation for repayment of the money thereby secured, and when a mortgage or charge becomes void under this section, the money secured thereby shall immediately become payable.
+(b) Sub-section (a) shall apply subject to the following:
+(i) in the case of a mortgage or charge created out of the Union, comprising solely property situate outside the Union, 28 days after the date on which the instrument or copy could, in due course of post and if dispatched with due diligence, have been received in the Union shall be substituted for 28 days after the date of the creation of the mortgage or charge as the time within which the particulars and instrument or copy are to be filed with the Registrar;
+(ii) where the mortgage or charge is created in the Union but comprises property outside the Union, the instrument creating or purporting to create the mortgage or charge or a copy thereof verified in the prescribed manner may be filed for registration notwithstanding that further proceedings may be necessary to make the mortgage or charge valid or effectual according to the law of the country in which the property is situate;
+(iii) where a negotiable instrument has been given to secure the payment of any book debts of a company, the deposit of the instrument for the purpose of securing an advance to the company shall not for the purposes of this section be treated as a mortgage or charge on those book debts; and
+(iv) the holding of debentures entitling the holder to a charge on immoveable property shall not be deemed to be an interest in immoveable property.
+(c) Where any mortgage or charge on any property of a company required to be registered under this section has been so registered, any person acquiring such property or any part thereof, or any share or interest therein, shall be deemed to have notice of the said mortgage or charge as from the date of such registration.

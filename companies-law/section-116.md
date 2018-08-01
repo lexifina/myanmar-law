@@ -1,0 +1,17 @@
+# Section 116 Shareholder approval
+(a) If the reduction is an equal reduction, it must be approved by an ordinary resolution passed at a general meeting of the company.
+(b) If the reduction is a selective reduction, it must be approved by either:
+(i) a special resolution passed at a general meeting of the company, with no votes being cast in favour of the resolution by any person who is to receive consideration as part of the reduction or whose liability to pay amounts unpaid on shares is to be reduced, or by their associates; or
+(ii) a resolution agreed to, at a general meeting, by all ordinary shareholders.
+(c) If the reduction involves the cancellation of shares, the reduction must also be approved by a special resolution passed at a meeting of the shareholders whose shares are to be cancelled.
+(d) The company must include with the notice of the meeting a statement setting out all information known to the company that is material to the decision on how to vote on the resolution, including confirmation that the requirements of sub-sections 115(b)(i) to (iii) will be met.
+(e) Before the notice of the meeting is sent to shareholders, the company must lodge with the Registrar a copy of:
+(i) the notice of the meeting; and
+(ii) any document relating to the reduction that will accompany the notice of the meeting sent to shareholders.
+The company must also publish in a daily newspaper circulating generally in the Union a notice of its intention to call a meeting to approve a reduction and advising that the notice of meeting and associated documents have been filed with the Registrar.
+(f) The Registrar will have 28 days following receipt of the documents referred to in sub-section (e) to determine if the company may release the notice of meeting to shareholders. If the Registrar determines that the notice may be sent, or a determination is not issued within this period, then the company may send the notice of meeting.
+(g) In making a determination under sub-section (f) the Registrar may direct the company to clarify or vary any document submitted under sub-section (e) where this is considered reasonably necessary for the protection of shareholders or creditors.
+(h) The Registrar may determine that the company must not release of the notice of meeting within the time provided by sub-section (f) if satisfied on reasonable grounds that the requirements of sub-section (d) of this section have not been met or for similarly significant cause.
+(i) The company must lodge with the Registrar a copy of any resolution under sub-section (b) within 21 days after it is passed and publish a notice of the passing of such resolution and the summary details of the reduction in a daily newspaper circulating generally in the Union. The company must not make the reduction until 28 days after publication of such notice in the newspaper.
+(j) The Registrar does not assume and shall not owe any obligations to a company, a company's members or to any other person in connection with the performance of its functions under sub-sections (f), (g) and (h) of this section, notwithstanding that the company becomes insolvent or suffers any loss.
+(k) Notwithstanding that the Registrar does not assume any liability under sub-section (j), that sub-section does not limit the right which a company may have under section 428 to appeal a relevant decision of the Registrar under this section.

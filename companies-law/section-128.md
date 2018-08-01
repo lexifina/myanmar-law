@@ -1,0 +1,4 @@
+# Section 128 Restrictions on a company providing financial assistance for purchase of its own shares
+(a) Save as provided in this section or section 130, a company limited by shares, other than a private company which is not a subsidiary of a public company, shall not give, whether directly or indirectly, any financial assistance for the purpose of or in connection with a purchase made or to be made by any person of any shares in the company or a holding company of the company:
+Provided that nothing in this section shall be taken to prohibit, where the lending of money is part of the ordinary business of a company, the lending of money by the company in the ordinary course of its business.
+(b) Nothing in this section shall affect the right of a company to redeem any shares, reduce its share capital or undertake any transaction or procedure affecting its share capital as provided in this Division.

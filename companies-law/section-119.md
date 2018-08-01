@@ -1,0 +1,2 @@
+# Section 119
+In addition to section 118, if the company becomes insolvent following and in connection with such reduction, every director of the company who knowingly and wilfully permitted a reduction in default of sub-section 117(a) shall also be liable to the creditors of the company to the extent of the reduction where the debts due by the company to the respective creditors exceeded the recoverable assets of the company and such amount may be recovered from them by the creditors or the liquidator suing on behalf of the creditors.

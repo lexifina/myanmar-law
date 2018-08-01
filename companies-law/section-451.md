@@ -1,0 +1,2 @@
+# Section 451 Authentication of documents
+Without limiting any other way in which a document or proceeding may be authenticated by a company, or the assumptions that a person dealing with a company is entitled to make under section 31, a document or proceeding requiring authentication by a company may be signed by a director, secretary or other authorized officer of the company, and need not be under its common seal.

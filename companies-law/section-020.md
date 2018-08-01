@@ -1,0 +1,3 @@
+# Section 20 Effect of alteration of constitution
+Notwithstanding anything in the constitution of a company, no member of the company shall be bound by an alteration made in the constitution after the date on which he became a member if and so far as the alteration requires him to take or subscribe for more shares than the number held by him at the date on which the alteration is made, or in any way increases his liability as at that date to contribute to the share capital of, or otherwise to pay money to, the company:
+Provided that this section shall not apply in any case where the member agrees in writing either before or after the alteration is made to be bound thereby.

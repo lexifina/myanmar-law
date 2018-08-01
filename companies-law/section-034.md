@@ -1,0 +1,6 @@
+# Section 34 Implied warranty in pre-incorporation contracts
+(a) Subject to any express provision in the pre-incorporation contract, there is an implied warranty by the person who purports to make a pre-incorporation contract:
+(i) that the company will be incorporated within any period specified in the contract, or if no period is specified, then within a reasonable time after the making of the contract; and
+(ii) that the company will ratify the contract within any period specified in the contract, or if no period is specified, then within a reasonable time after the incorporation of the company.
+(b) The amount of damages recoverable in an action for breach of a warranty implied by sub-section (a) is the same as the amount of damages that would be recoverable in an action against the company for damages for breach by the company of the unperformed obligations under the contract if the contract had been ratified and cancelled.
+(c) If, after its incorporation, a company enters into a contract in the same terms as, or in substitution for, a pre-incorporation contract (not being a contract ratified by the company under section 33), the liability of a person under sub-section (a) (including any liability under an order made by the court for the payment of damages) is discharged.

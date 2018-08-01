@@ -1,0 +1,4 @@
+# Section 306 Powers of Court on hearing petition
+(a) On hearing the petition the Court may dismiss it with or without costs, or adjourn the hearing conditionally or unconditionally, or make any interim order or any other order that it deems just, but the Court shall not refuse to make a winding up order on the ground only that the assets of the company have been mortgaged to an amount equal to or in excess of those assets, or that the company has no assets.
+(b) Where the petition is presented on the ground of default in filing the statutory report or in holding the statutory meeting, the Court may order the costs to be paid by any persons who, in the opinion of the Court, are responsible for the default.
+(c) Where the Court makes an order for the winding up of a company it shall, except where a liquidator is appointed simultaneously, forthwith cause intimation thereof to be sent to the official receiver.

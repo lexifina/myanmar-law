@@ -1,0 +1,2 @@
+# Section 17 Alteration of constitution
+Subject to the provisions of this Law, and to any additional conditions contained in its constitution, a company may, by special resolution, alter or add to the provisions of its constitution, and any alteration or addition so made shall be as valid as if originally contained in the constitution, and be subject in like manner to alteration by special resolution.

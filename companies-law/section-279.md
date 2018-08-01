@@ -1,0 +1,16 @@
+# Section 279 Qualifications and appointment of auditors
+(a) No person shall be appointed or act as an auditor of a public company or a subsidiary of a public company unless he holds a certificate from such other person or body authorised under an applicable law entitling him to act as an auditor of companies:
+Provided that a firm whereof all the partners practising in the Union hold such certificates may be appointed by its firm-name to be auditor of a company, and may act in its firm-name.
+(b) Every company to which this section applies shall at each annual general meeting appoint an auditor or auditors to hold office until the next annual general meeting.
+(c) If an appointment of an auditor is required and is not made at an annual general meeting, the Union Minister may, on the application of any member of the company, appoint an auditor of the company for the current year, and fix the remuneration to be paid to the auditor by the company for his services.
+(d) The following persons shall not be appointed auditors of the company:
+(i) a director or officer of the company; and
+(ii) a partner of such director or officer; and
+(iii) in the case of a public company or a subsidiary of a public company any person in the employment of such director or officer; and
+(iv) any person indebted to the company, and if any person after being appointed auditor becomes indebted to the company his appointment shall thereupon be terminated.
+(e) A person, other than a retiring auditor, shall not be capable of being appointed auditor at an annual general meeting unless notice of an intention to nominate that person to the office of auditor has been given by a member of the company to the company not less than 14 days before the date on which notices for such annual general meeting must be sent to members, and the company shall send a copy of any such notice to the retiring auditor, and shall give notice thereof to its members, with the notice of meeting and if desired by advertisement or in any other mode allowed by the constitution of the company:
+Provided that, if after notice of the intention to nominate an auditor has been given to the company, notice of an annual general meeting is sent 14 days or less after the notice has been given, the requirements of this section as to time in respect of such a notice of the intention to nominate an auditor shall be deemed to have been satisfied, and the notice must be sent or given at the same time as the notice of the annual general meeting.
+(f) The first auditors of a company may be appointed by the directors before the statutory meeting, and if so appointed shall hold office until the first annual general meeting unless previously removed by a resolution of the members of the company in general meeting, in which case such members at that meeting may appoint auditors.
+(g) The directors may fill any casual vacancy in the office of auditor, but while any such vacancy continues the surviving or continuing auditor or auditors (if any) may act.
+(h) The remuneration of the auditors of a company shall be fixed by the company in general meeting, except that the remuneration of any auditors appointed before the statutory meeting, or to fill any casual vacancy, may be fixed by the directors.
+(i) This section applies without limitation to the requirements of any other applicable law.

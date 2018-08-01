@@ -1,0 +1,3 @@
+# Section 237 Endorsement of certificate of registration on debenture or certificate of debenture stock
+The company shall cause a copy of every certificate of registration, given under section 236, to be endorsed on every debenture or certificate of debenture stock which is issued by the company, and the payment of which is secured by the mortgage or charge so registered:
+Provided that nothing in this section shall be construed as requiring a company to cause a certificate of registration of any mortgage or charge so given to be endorsed on any debenture or certificate of debenture stock which has been issued by the company before the mortgage or charge was created.

@@ -1,0 +1,4 @@
+# Section 26 Direction to change name
+(a) If the Registrar believes on reasonable grounds that a company should not have been registered under the name it was registered under, the Registrar may serve written notice on the company to change its name by a date specified in the notice, being a date not less than 60 days after the date on which the notice is served.
+(b) If the company does not change its name within the period specified in the notice, the Registrar may enter on the Register a new name for the company selected by the Registrar, being a name under which the company may be registered under this Part.
+(c) If the Registrar registers a new name under sub-section (b), the Registrar must issue a certificate of incorporation for the company recording the new name of the company, and the registration of the new name shall have effect as if the name of the company had been changed under section 25.

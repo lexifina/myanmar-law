@@ -1,0 +1,2 @@
+# Section 398 Penalty for falsification of books
+If any director officer or contributory of any company being wound up destroys, mutilates, alters or falsities or fraudulently secretes any books, papers or securities, or makes, or is privy to the making of, any false or fraudulent entry in any register, book of account or document belonging to the company with intent to defraud or deceive any person, such director officer or contributory shall be liable to imprisonment for a term which may extend to seven years, and shall also be liable to fine.

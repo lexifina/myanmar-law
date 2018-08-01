@@ -1,0 +1,16 @@
+# Section 126 Varying rights of holders of classes of shares
+(a) If a company's constitution sets out the procedure for varying or cancelling rights attached to shares in a class of shares or, for a company without a share capital, rights of members in a class of members, those rights may be varied or cancelled only in accordance with the procedure. The procedure may be changed only if the procedure itself is complied with.
+(b) If a company's constitution does not include a procedure referred to in sub-section (a), those same rights may be varied or cancelled only by special resolution of the company and:
+(i) by special resolution passed at a meeting:
+(A) for a company with a share capital, of the class of members holding shares in the class; or
+(B) for a company without a share capital, of the class of members whose rights are being varied or cancelled; or
+(ii) with the written consent of members with at least 75% of the votes in the class.
+(c) The company must give written notice of the variation or cancellation to the members of the class within 7 days after the variation or cancellation is made.
+(d) Subject to any application having been made under sub-section (e), within 21 days of the passing of the relevant resolutions or receipt of the relevant consents the company must file with the Registrar a notice in the prescribed form of the variations made pursuant to this section and any resulting changes to its share capital structure.
+(e) If the holders of not less in the aggregate than ten per cent of the issued shares of a class that has been varied pursuant to this section, being persons who did not consent to or vote in favour of the resolution for the variation, continue to oppose the variation, they may apply to the Court to have the variation cancelled, and where any such application is made the variation shall not have effect unless and until it is confirmed by the Court.
+(f) An application under sub- section (e) must be made within 21 days after the date on which the consent was given or the resolution was passed, as the case may be, and may be made on behalf of the shareholders entitled to make the application by such one or more of their number as they may appoint in writing for the purpose.
+(g) On any such application the Court, after hearing the applicant and any other persons who apply to the Court to be heard and appear to the Court to be interested in the application, may, if it is satisfied having regard to all the circumstances of the case that the variation would unfairly prejudice the members of the class represented by the applicant, disallow the variation and shall, if not so satisfied, confirm the variation.
+(h) The decision of the Court on any such application shall be final.
+(i) The company shall within 21 days after the service on the company of any order made on any such application forward a copy of the order to the Registrar.
+(j) It shall be the duty of every officer of a company to take reasonable steps to ensure that the procedures of this section are followed and that all relevant filings are made.
+(k) The expression "variation" in this section includes "abrogation" and the expression "varied" shall be construed accordingly.

@@ -1,0 +1,4 @@
+# Section 153 Appointment of corporate representatives to attend meetings of companies
+(a) A company which is a member of another company may, by resolution of the directors, authorize any of its officials or any other individual person to act as its representative at any meeting of that other company, and the person so authorized shall be entitled to exercise the same powers on behalf of the company that the company itself could exercise at a meeting of the other company or in voting on a resolution.
+(b) A company may appoint more than one person under sub-section (a), however only one representative may exercise those powers at any one time.
+(c) In connection with the participation in a meeting of a company by a corporate representative appointed under sub-section (a), the company may request to see evidence of the due appointment of the corporate representative and may by resolution of directors stipulate a form of appointment for this purpose.

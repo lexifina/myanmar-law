@@ -1,0 +1,4 @@
+# Section 393 Fraudulent preference
+(a) Any transfer, delivery of goods, payment, execution or other act relating to property which would, if made or done by or against an individual, be deemed in his insolvency a fraudulent preference, shall, if made or done by or against a company, be deemed, in the event of its being wound up, a fraudulent preference of its creditors, and be invalid accordingly.
+(b) For the purposes of this section the presentation of a petition for winding up in the case of a winding up by or subject to the supervision of the Court, and a resolution for winding up in the case of a voluntary winding up, shall be deemed to correspond with the act of insolvency in the case of an individual.
+(c) Any transfer or assignment by a company of all its property to trustees for the benefit of all its creditors shall be void.

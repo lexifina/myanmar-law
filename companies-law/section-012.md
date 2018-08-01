@@ -1,0 +1,6 @@
+# Section 12 Contents of a constitution
+(a) The constitution may contain the matters contemplated in this Law for inclusion and such other matters that the company wishes to include, provided that at all times the constitution has no effect to the extent that it is inconsistent with this Law.
+(b) At the election of the members, the constitution may set out the objects of the company.
+(c) The constitution must state that the registered office of the company will be situated in the Union.
+(d) Subject to sub-section (e), the Memorandum of Association, any Articles of Association and any other constituent document of an existing company shall take effect as the constitution of such company following the commencement of this Law, provided that at all times the constitution has no effect to the extent that it is inconsistent with this Law.
+(e) The objects expressed in the former Memorandum of Association of an existing company will (unless removed by the members voting to amend the constitution in accordance with the requirements of this Law) continue to apply until the end of the transition period. The objects will be deemed to have been removed after this time unless a notice in the prescribed form confirming the passing of a special resolution to maintain them is filed with the Registrar. This sub-section is without prejudice to section 29.

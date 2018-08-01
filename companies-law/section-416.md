@@ -1,0 +1,2 @@
+# Section 416 Suits stayed on winding up order
+Where an order has been made for winding up an unregistered company, no suit or other legal proceedings shall be proceeded with or commenced against any contributory of the unregistered company in respect of any debt of the unregistered company, except by leave of the Court, and subject to such terms as the Court may impose.

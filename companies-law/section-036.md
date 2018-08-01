@@ -1,0 +1,2 @@
+# Section 36 Breach of pre-incorporation contract
+In proceedings against a company for breach of a pre-incorporation contract which has been ratified by the company, the court may, on the application of the company, any other party to the proceedings, or of its own motion, make such order for the payment of damages or other relief as the court considers just and equitable, in addition to or in substitution for any order which may be made against the company, against a person by whom the contract was made.
