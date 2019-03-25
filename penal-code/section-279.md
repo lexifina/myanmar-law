@@ -1,0 +1,2 @@
+# Section 279 Rash driving or riding on a public way.
+Whoever drives any vehicle or rides on any public way in a manner so rash or negligent as to endanger human life, or to belikely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to [two years], or with fine which may extend to one hundred thousand kyats, or with both.

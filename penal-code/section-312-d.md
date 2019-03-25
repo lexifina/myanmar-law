@@ -1,0 +1,2 @@
+# Section 312D Death caused by sterilization by surgery.
+Whoever intentionally does sterilization by surgery to any person thereby causing the death of such person shall, unless such sterilization is certified by the Board appointed by Government in this behalf to be necessary for reasons of physical or mental health, be punished with imprisonment for a term which may extend to ten years, and shall also be liable to fine.

@@ -1,0 +1,2 @@
+# Section 312A Sterilization of a woman surgery.
+Whoever intentionally does sterilization by surgery to a woman shall, unless such sterilization is certified by the Board appointed by the Government in this behalf to be necessary for reasons of physical or mental health, be punished with imprisonment for a term which may extend to three years, and shall also be liable to fine: Provided that in cases where immediate action must be taken in order to save the life of the woman no such certificate is necessary.

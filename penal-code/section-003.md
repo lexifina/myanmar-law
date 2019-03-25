@@ -1,0 +1,2 @@
+# Section 3 Punishment of offences committed beyond, but which by law may be tried within the Union of Burma.
+Any person liable, by any law in force in the Union of Burma, to be tried for an offence committed beyond the limits of the Union of Burma shall be delth with according to the provisions of this Code for any act committed beyond the Union of Burma in the same manner as if such act had been committed within the Union of Burma.

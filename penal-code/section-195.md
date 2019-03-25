@@ -1,0 +1,4 @@
+# Section 195 Giving or fabricating false evidence with intent to procure conviction of offence punishable with transportation or imprisonment.
+Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law of the Union of Burma [* *] is not capital, but punishable with imprisonment for a term of twenty years, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
+Illustration
+A gives false evidence before a Court of Justice, intending thereby to cause Z to be convicted of a dacoity. The punishment for dacoity is imprisonment for a term of twenty years, or rigorous imprisonment for a term which may extend to ten years, with or without fine. A, therefore, is liable to such transportation or imprisonment, with or without fine.

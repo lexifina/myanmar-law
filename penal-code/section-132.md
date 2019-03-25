@@ -1,0 +1,2 @@
+# Section 132 Abetment of mutiny, if mutiny is committed in consequence thereof.
+Whoever abets the committing of mutiny by a member of the Defence Services [****], shall, if mutiny be committed in consequence of that abetment, be punished with death or with imprisonment for a term of twenty years, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

@@ -1,0 +1,2 @@
+# Section 282 Conveying person by water for hire in unsafe or overleaded vessel.
+Whoever knowingly or negligently conveys or causes to be conveyed for hire any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life or that person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one hundred thousand kyats, or with both.

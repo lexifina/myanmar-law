@@ -1,0 +1,2 @@
+# Section 459 Grievous hurt caused whilst committing lurking house-trespass or house-breaking.
+Whoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person shall be punished with imprisonment for a term of twenty years, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

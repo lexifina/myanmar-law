@@ -1,0 +1,2 @@
+# Section 70 Fine leviable within six years or during imprisonment. Death not to discharge property from liability.
+The fine, or any part thereof which remains unpaid, may belevied at any time within six years after the passing of the sentence, and if, under the sentence, the offender be liable to imprisonment for a longer period than six years, than at any time previous to the expiration of that period; and the death of the offender does not discharge from the liability any property which would, after his death, be legally liable for his debts.

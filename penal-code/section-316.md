@@ -1,0 +1,2 @@
+# Section 316 Causing death of quick unborn child by doing act likely to cause death of pregnant woman.
+Whoever without lawful excuse does any act knowing that he is likely to cause death to a pregnant woman, and does by such act cause the death of a quick unborn child, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

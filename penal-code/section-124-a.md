@@ -1,0 +1,5 @@
+# Section 124A Sedition.
+Whoever by words, either spoken or written, or by signs, or by visible representation, or otherwise, bring or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards [the Government established by law for the Union or for the constituent units thereof,] shall be punished with imprisonment for a term of twenty years, to which fine may be added, or with imprisonment which may extend to seven years, to which fine may be added, or with fine.
+Explanation 1. - The expression "disaffection" includes disloyalty and all feelings of enmity.
+Explanation 2. - Comments expressing disapprobation of the measures of the Government with a view to obtain their alteration by lawful means, without exciting or attempting to excite hatred, contempt or disaffection, do not constitute an offence under this section.
+Explanation 3. - Comments expressing disapprobation of the administrative or other action of the Government, without exciting or attempting to excite hatred, contempt or disaffection, do not constitute an offence under this section.

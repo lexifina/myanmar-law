@@ -1,0 +1,2 @@
+# Section 125 Waging war against any Asiatic Power in alliance with the State.
+Whoever wages war against any Asiatic Power in alliance or at peace with the State, or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for a term of twenty years, to which fine may be added, or with imprisonment of either description for a term which may extend to seven years, to which fine may be added, or with fine.

@@ -1,0 +1,2 @@
+# Section 249 Altering appearance of coin of the Union with intent that it shall pass as coin of different description.
+Whoever performs on any of the coin of the Union any operation which alters the appearance of that coin, with the intention that the said coin shall pass as a coin of a different description, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.

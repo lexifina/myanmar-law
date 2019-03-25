@@ -1,0 +1,2 @@
+# Section 394 Voluntarily causing hurt in commiting robbery.
+If any person, in committing or in attempting to commit robbery, voluntarily causes hurt, such person, and any other person jointly concerned in committing or attempting to commit such robbery, shall be punished with imprisonment for a term of twenty years, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.

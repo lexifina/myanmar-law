@@ -1,0 +1,2 @@
+# Section 410 Stolen property.
+Property, the possession whereof has been transferred by theft, or by extortion, or by robbery, and property which has been criminally misappropriated or in respect of which criminal breach of trust has been committed, is designated as "stolen property," whether the transfer has been made, or the misappropriation or breach or trust has been committed, within or without the Union of Burma, But, if such property subsequently comes into the possession of a person legally entitled to be possession thereof, it then ceases to be stolen property.

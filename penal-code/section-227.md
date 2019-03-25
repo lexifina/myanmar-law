@@ -1,0 +1,3 @@
+# Section 227 Violation of condition of remission of punishment.
+Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.
+Whoever is convicted of absconding in violation of a condition of a remission of punishment under this section shall, in addition to the punishment prescribed by this section, be punished by the convicting Judge with rigorous imprisonment for a term which may extend to one year.

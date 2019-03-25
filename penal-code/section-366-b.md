@@ -1,0 +1,2 @@
+# Section 366B Importation of girl from foreign country.
+Whoever imports into the Union of Burma from any country outside the Union of Burma any girl under the age of twenty-one years with intent that she may be, or knowing it to be likely that she will be, forced or seduced to illicit intercourse with another person, [* * *] [whether by himself or by another person,] shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine.

@@ -1,0 +1,2 @@
+# Section 234 Making or selling instrument for counterfeiting coin of the Union.
+Whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of, any die or instrument, for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting the coin of the Union, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.

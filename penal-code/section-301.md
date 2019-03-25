@@ -1,0 +1,3 @@
+# Section 301 Culpable homicide by causing death of person other than person whose death was intended.
+If a person, by doing anything which he intends or knows to be likely to cause death, commits an offence by causing the death of any person whose death he neither intends nor knows himself to be likely to cause, the offence committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself, to be likely to cause.
+Explanation. - In this section the word "offence" means an offence described in section 299 or section 300 or section 304A.

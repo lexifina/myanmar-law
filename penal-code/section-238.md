@@ -1,0 +1,2 @@
+# Section 238 Import or export of counterfeits of the coin of the Union.
+Whoever imports into the Union of Burma, or exports therefrom, any counterfeit coin which he knows or has reason to believe to be a counterfeit of the coin of the Union, shall be punished with imprisonment for a term of twenty years, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.

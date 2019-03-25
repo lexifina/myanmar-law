@@ -1,0 +1,2 @@
+# Section 334 Voluntarily causing hurt on provocation.
+Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to fifty thousand kyats, or with both.

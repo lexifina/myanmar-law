@@ -1,0 +1,3 @@
+# Section 377 Unnatural offences.
+Whoever voluntarily has carnal intercourse against the order of nature with any man, woman or animal shall be punished with imprisonment for a term of twenty years, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+Explanation. - Penetration is sufficient to constitute the carnal intercourse necessary to the offence described in this section.

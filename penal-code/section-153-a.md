@@ -1,0 +1,3 @@
+# Section 153A Promoting enmity between classes.
+Whoever by words, either spoken or written, or by signs, or by visible representations, or otherwise, promotes or attempts to promote feelings of enmity or hatred between different classes of [persons resident in the Union] shall be punished with imprisonment which may extend to two years, or with fine, or with both.
+Explanation. - It does not amount to an offence within the meaning of this section to point out, without malicious intention and with an honest view to their removal, matters which are producing, or have a tendency to produce, feelings of enmity or hatred between different classes of [persons resident in the Union].

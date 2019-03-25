@@ -1,0 +1,2 @@
+# Section 52A "Harbour."
+Except in section 130 and in section 157 in the case in which the harbour is given by the wife or husband of the person harboured, the word 'harbour' includes supplying a person with shelter, food, drink, money, clothes, arms, ammunition or means of conveyance, or the assisting of a person by any means, whether of the same kind as those enumerated in this section or not, to evade apprehension.

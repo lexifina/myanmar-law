@@ -1,0 +1,3 @@
+# Section 302 Punishment for murder.
+(1) Whoever commits murder - (a) being under sentence of imprisonment for a term of twenty years, or (b) with premeditation, or (c) in the course of committing any offence punishable under this Code with imprisonment for a term which may extend to seven years, shall be punished with death, and shall also be liable to fine. (2) Whoever commits murder in any other case shall be punished with imprisonment for a term of twenty years, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+Explanation - Whether an act is premeditated is a question of fact.

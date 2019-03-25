@@ -1,0 +1,2 @@
+# Section 248 Altering appearance of coin with intent that shall pass as coin of different description.
+Whoever performs on any coin any operation which alters the appearance of that coin, with the intention that the said coin shall pass as a coin of a different description, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.

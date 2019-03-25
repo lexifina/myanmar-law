@@ -1,0 +1,2 @@
+# Section 304A Causing death by negligence.
+Whoever causes the death of any person by doing any rash or negligent act not punishable as culpable homicide or murder shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine: provided that, if such act is done with the knowledge that it is likely to cause death, the term of imprisonment may extend to ten years.
