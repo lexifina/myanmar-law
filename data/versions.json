@@ -1,0 +1,61 @@
+{
+ "country": "MM",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of the Union of Myanmar (2008)",
+   "url": "https://www.burmalibrary.org/sites/burmalibrary.org/files/obl/docs5/Myanmar_Constitution-2008-en.pdf",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 463,
+     "source_url": "https://www.burmalibrary.org/sites/burmalibrary.org/files/obl/docs5/Myanmar_Constitution-2008-en.pdf",
+     "sha256": "9ff62932c7a366dd61ecb559f2a51e837ca11f3914d5ab7be8787bfbcc4d8889"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "The Penal Code (India Act XLV, 1860), as applied in Myanmar",
+   "url": "https://sherloc.unodc.org/cld/uploads/res/document/mmr/1861/myanmar_penal_code_html/The_Penal_Code_incorporating_amendments_to_25_March_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 578,
+     "source_url": "https://sherloc.unodc.org/cld/uploads/res/document/mmr/1861/myanmar_penal_code_html/The_Penal_Code_incorporating_amendments_to_25_March_2019.pdf",
+     "sha256": "e729ebe1c525907fe93560229f4ef7dfa2e059afff39903208f9b78cc36bb269"
+    }
+   ]
+  },
+  {
+   "slug": "contract-act",
+   "short": "Contract Act",
+   "title": "The Contract Act (India Act IX, 1872), as applied in Myanmar",
+   "url": "https://www.myanmar-law-library.org/IMG/pdf/the_contract_act.pdf",
+   "versions": [
+    {
+     "from": "2018-06-04",
+     "units": 207,
+     "source_url": "https://www.myanmar-law-library.org/IMG/pdf/the_contract_act.pdf",
+     "sha256": "8bc3b987468584d1209a7c47f903bd7f12ef476a27d7cc983e72067382afab3c"
+    }
+   ]
+  },
+  {
+   "slug": "companies-law",
+   "short": "Companies Law",
+   "title": "The Myanmar Companies Law (Pyidaungsu Hluttaw Law No. 29, 2017)",
+   "url": "https://www.myco.dica.gov.mm/documentation/mm/MCL.en-US.pdf",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 517,
+     "source_url": "https://www.myco.dica.gov.mm/documentation/mm/MCL.en-US.pdf",
+     "sha256": "8328f51a3835576bbadae53c4809cc791182eafa2bb7ca4250a3c454135930e9"
+    }
+   ]
+  }
+ ]
+}
