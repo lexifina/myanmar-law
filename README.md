@@ -1,5 +1,7 @@
 # Myanmar: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Myanmar's national law, which global-law reads at `myanmar/national/acts/`.
+
 The Constitution of the Republic of the Union of Myanmar (2008) and core statutes as a git repository: one file per section and schedule, and the printing it comes from as the commit's author. `git log` and `git blame` name the source of every line; the tools in `tools/` show the text in force on a date.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mm/`.
