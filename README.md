@@ -1,53 +1,89 @@
 # Myanmar: law history in git
 
+
+The law of Myanmar as a git history: one file per section (and per schedule, chapter, Part or Division heading), one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the source behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Myanmar's national law, which global-law reads at `myanmar/national/acts/`.
 
-The Constitution of the Republic of the Union of Myanmar (2008) and core statutes as a git repository: one file per section and schedule, and the printing it comes from as the commit's author. `git log` and `git blame` name the source of every line; the tools in `tools/` show the text in force on a date.
+**What is in it now:** four acts, each in one version: the Constitution of 2008 (preamble, sections 1 to 457 and five schedules), the Penal Code (1860) as amended to 25 March 2019, the Contract Act (1872) and the Myanmar Companies Law (2017), 1,765 provisions in all. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists the law or publisher each version is credited to.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mm/`.
+Each act is a folder with one file per provision (`constitution/section-001.md` is section 1 of the Constitution; `penal-code/section-302.md` is section 302 of the Penal Code, punishment for murder). Each folder's `README.md` lists its provisions and their changes.
 
-**Language:** English. The Constitution is the official English version printed by the Printing and Publishing Enterprise, Ministry of Information, in September 2008. Section 452 of the Constitution says the Myanmar-language text is the one used for interpretation.
+The text is in English, as the sources print it; the Constitution is the official English version printed by the Ministry of Information in September 2008. Section 452 bases its interpretation on the Myanmar text, which is not part of this record.
 
-**What is in it now**
+## Questions as git commands
 
-| Folder | Law | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution of the Republic of the Union of Myanmar (2008): preamble, sections 1 to 457 and Schedules 1 to 5 | 1 | The oldest version available: the September 2008 printing, dated from 31 January 2011, the day section 441 brought it into operation (the first session of the Pyidaungsu Hluttaw) |
-| `penal-code/` | The Penal Code (India Act XLV, 1860), as applied in Myanmar: sections 1 to 511 with their A-lettered sections, and chapter headings | 1 | The oldest version available: the Myanmar Law Information System text incorporating amendments to 25 March 2019 (Law No. 10/2019), dated from that last amendment |
-| `contract-act/` | The Contract Act (India Act IX, 1872), as applied in Myanmar: preamble, sections 1 to 238 and chapter headings (sections 76 to 123 and 239 to 266 are repealed) | 1 | The oldest version available: the Myanmar Law Library copy of the Burma Code text, dated from 4 June 2018, the day that PDF was made |
-| `companies-law/` | The Myanmar Companies Law (Pyidaungsu Hluttaw Law No. 29, 2017): preamble, sections 1 to 476, with Parts and Divisions | 1 | The Law as signed on 6 December 2017, dated from 1 August 2018, when it commenced under President Notification 48/2018 |
+| Question | Command |
+| --- | --- |
+| Every change to section 1 of the Constitution | `git log -p --word-diff -- constitution/section-001.md` |
+| Which source wrote each line of section 1? | `git blame constitution/section-001.md` |
+| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution ':!*/README.md'` |
+| Section 1 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 constitution section-001` |
 
-## What it does not show
+**Outside git**, we also host this record publicly, for free:
 
-- **No later history.** No official consolidated text with amendments was found online, so there is one version. Amendments, the suspension of parts of the Constitution in February 2021 and later proclamations are not in this record.
-- **Not the adoption date.** The Constitution was adopted by referendum on 29 May 2008; the first commit is dated from the day it came into operation.
-- **Flag and seal.** Sections 437 and 438 show the State Flag and State Seal as drawings; the drawings are not text and are not included.
-- **Chapter headings and page numbers** of the Constitution are not separate files. In the statutes, chapters are files named `chapter-NN.md`.
+- **[Ask Claude about Myanmar law](https://global-law.lexifina.com/v1/try_claude?country=myanmar)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=myanmar)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=citizen&jurisdictions=myanmar)**: a search of Myanmar law for "citizen", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add myanmar/national/acts
+python3 tools/law.py show 2026-01-01 myanmar/national/acts/constitution/section-001.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Asia/Yangon, on the day the change took effect, shown in the `In-force:` trailer. The one date used here comes from section 441.
+Each commit is dated at noon, Asia/Yangon, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-## How it is built
+- the Constitution, 31 January 2011, the day the first session of the Pyidaungsu Hluttaw convened, which section 441 makes its day of operation (it was adopted by referendum on 29 May 2008);
+- the Companies Law, 1 August 2018, its commencement under President Notification 48/2018 (it was signed on 6 December 2017);
+- the Penal Code and the Contract Act, whose texts give no such day: the Penal Code from its last amendment shown, 25 March 2019 (Law No. 10/2019), and the Contract Act from the day its PDF was made, 4 June 2018 (the Act came into force on 1 September 1872).
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+The Companies Law is credited to the law that enacted it (`Pyidaungsu Hluttaw Law No. 29/2017`). The other three acts are each the "oldest version available", credited to the publisher of the text, not to a law.
 
-The text is read from the text layer of the printed PDF (no OCR). A deterministic parser turns it into `corpus.json`, and the shared builder writes the repository with `git fast-import`. `REPRODUCE.md` records the data hash, the decisions and the checks. No AI model wrote or changed legal text.
+## How it is checked
+
+- `tools/check_repo.py` reads every version back from git on the day it took effect, and on the day before, and compares it file by file with the corpus it was built from; it also checks that every commit's trailers parse, that `main` has no merge commits and that no commit date goes backwards or lies in the future.
+- The text is read from each PDF's text layer (no OCR) by a deterministic parser; `tools/build.py` writes the history from the corpus, and the same corpus always gives the same commit hashes.
+- [`REPRODUCE.md`](REPRODUCE.md) gives the corpus and builder hashes and every decision made by hand; its Checks section reads "Not yet run for this build".
+
+## What it does not show
+
+- **Later history.** No official consolidated text with amendments was found, so each act has one version. Later amendments, the suspension of parts of the Constitution in February 2021 and later proclamations are not here.
+- **Most of the law.** Only these four acts: no other laws, no regulations or notifications, and no case law.
+- **The Myanmar text**, which section 452 makes the basis of the Constitution's interpretation.
+- **Texts from their publisher.** Only the Companies Law is read from its publisher; the other three are copies held by libraries (see Sources).
+- **Drawings.** The State Flag and State Seal in sections 437 and 438 are not included.
 
 ## Sources
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Constitution of the Republic of the Union of Myanmar (2008), English](https://www.burmalibrary.org/en/constitution-of-the-republic-of-the-union-of-myanmar-2008-english) | Official text, copy held by the Online Burma/Myanmar Library | no | Used. The library's page says: "The official English version." |
-| [Penal Code, text incorporating amendments to 25 March 2019](https://sherloc.unodc.org/cld/uploads/res/document/mmr/1861/myanmar_penal_code_html/The_Penal_Code_incorporating_amendments_to_25_March_2019.pdf) | Myanmar Law Information System text (MLIS, watermarked on each page), copy held by UNODC SHERLOC | no | Used. Marginal notes are shown after the section number |
-| [The Contract Act, 1872](https://www.myanmar-law-library.org/IMG/pdf/the_contract_act.pdf) | State legal text (Burma Code), copy held by the Myanmar Law Library | no | Used. |
-| [Myanmar Companies Law, English](https://www.myco.dica.gov.mm/documentation/mm/MCL.en-US.pdf) | Official text published by the Directorate of Investment and Company Administration (DICA) | no | Used. Amendments after 2017 are not recorded |
-| [Myanmar Law Information System](https://www.mlis.gov.mm) | Official legislation | partly | – |
-
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+| [Online Burma/Myanmar Library](https://www.burmalibrary.org/en/constitution-of-the-republic-of-the-union-of-myanmar-2008-english) | Constitution (2008), official English version, Ministry of Information printing | no | A copy held by the library |
+| [UNODC SHERLOC](https://sherloc.unodc.org/cld/uploads/res/document/mmr/1861/myanmar_penal_code_html/The_Penal_Code_incorporating_amendments_to_25_March_2019.pdf) | Penal Code, Myanmar Law Information System text amended to 25 March 2019 | no | A copy of the official text; marginal notes follow the section number |
+| [Myanmar Law Library](https://www.myanmar-law-library.org/IMG/pdf/the_contract_act.pdf) | Contract Act, Burma Code text | no | Sections 76 to 123 and 239 to 266 shown as repealed |
+| [Directorate of Investment and Company Administration](https://www.myco.dica.gov.mm/documentation/mm/MCL.en-US.pdf) | Myanmar Companies Law, official English text | no | The Law as signed; later amendments are not recorded |
 
 ## Licence
 
-The law text is the Constitution of Myanmar, a state legal text, printed by the Printing and Publishing Enterprise, Ministry of Information (September 2008), the Penal Code as held by the Myanmar Law Information System, the Contract Act as held by the Myanmar Law Library, and the Companies Law as published by DICA. No licence is stated for any of them. The arrangement, commit messages and tools are by Lexifina, under `LICENSE`.
+See [`LICENSE`](LICENSE). The four texts are state legal texts, and no licence is stated for any of them; Lexifina's arrangement, tables, commit messages and tools are under the Creative Commons Attribution 4.0 International licence.
 
-This repository is not legal advice and not an official publication.
+No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
