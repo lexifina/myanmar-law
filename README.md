@@ -58,6 +58,7 @@ The Companies Law is credited to the law that enacted it (`Pyidaungsu Hluttaw La
 - `tools/check_repo.py` reads every version back from git on the day it took effect, and on the day before, and compares it file by file with the corpus it was built from; it also checks that every commit's trailers parse, that `main` has no merge commits and that no commit date goes backwards or lies in the future.
 - The text is read from each PDF's text layer (no OCR) by a deterministic parser; `tools/build.py` writes the history from the corpus, and the same corpus always gives the same commit hashes.
 - [`REPRODUCE.md`](REPRODUCE.md) gives the corpus and builder hashes and every decision made by hand; its Checks section reads "Not yet run for this build".
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ The Companies Law is credited to the law that enacted it (`Pyidaungsu Hluttaw La
 See [`LICENSE`](LICENSE). The four texts are state legal texts, and no licence is stated for any of them; Lexifina's arrangement, tables, commit messages and tools are under the Creative Commons Attribution 4.0 International licence.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
